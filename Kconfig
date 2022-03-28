@@ -1,0 +1,2 @@
+config RAINMACHINE_VALVES
+	tristate "Rainmachine valves driver"
